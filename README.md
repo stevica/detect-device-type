@@ -10,7 +10,7 @@ Hit the URL (_localhost:3000/detect_) in your browser from desktop, laptop or mo
 
 **req.device** _returns following object_
 
-```json 
+```javascript
 { parser:
     DeviceParser {
         options:
